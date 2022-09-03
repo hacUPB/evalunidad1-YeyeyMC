@@ -1,4 +1,4 @@
-// Yeison Andres Muñoz Ceron
+// Yeison Andres Munoz Ceron
 // 456968
 // yeison.munoz@upb.edu.co
 
@@ -71,8 +71,8 @@
                 @SETH
                 D;JEQ 
  
-                @color
-                D=M 
+                @256
+                D=A
                 
                 @pscreen
                 A=M 
